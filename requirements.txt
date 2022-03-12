@@ -1,6 +1,6 @@
 utm
 repoze.lru==0.7
-Pillow==6.1.0
+Pillow==9.0.1
 ExifRead==2.1.2
 pytz==2020.1
 xmltodict==0.12.0
